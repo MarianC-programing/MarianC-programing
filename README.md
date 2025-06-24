@@ -1,4 +1,4 @@
-<span>![</span><span>https://github.com/MarianC-programing/MarianC-programing/blob/main/Git.jpg</span><span>]</span> 
+![Git](https://github.com/MarianC-programing/MarianC-programing/raw/main/Git.jpg)
 
 # Hey, I'm Marian
 
