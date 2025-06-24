@@ -1,19 +1,14 @@
-## Hi there 👋
 
 
-**MarianC-programing/MarianC-programing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Marian
 
-Here are some ideas to get you started:
+- 🎓 Estudiante de Ingeniería de Software en la Universidad Tecnológica de Panamá  
+- 💻 Apasionada por el desarrollo backend, la ciberseguridad y la inteligencia artificial  
+- 🌱 Actualmente aprendiendo Java, Python, C++, y mejores prácticas de desarrollo  
+- 🎯 Objetivo: Convertirme en ingeniera RPA y contribuir a proyectos open source
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarianC-programing&theme=aura-dark)](https://git.io/streak-stats)
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 
