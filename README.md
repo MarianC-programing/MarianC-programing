@@ -1,7 +1,7 @@
 ![Git](https://github.com/MarianC-programing/MarianC-programing/raw/main/Git.jpg)
 
 # Hi, I'm Marian Barba! 👋
-### Software Engineering Student | QA Enthusiast | Full Stack Developer in training
+### Software Engineering Student | QA Enthusiast | Jr. Full Stack Developer
 
 I am a Software Engineering student at UTP (Panama) with a strong technical background in IT support. I'm pivoting towards **Quality Assurance** and **Full Stack Development**, combining my hardware diagnostic skills with software logic.
 
