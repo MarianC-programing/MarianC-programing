@@ -1,4 +1,4 @@
-![Git](https://github.com/MarianC-programing/MarianC-programing/raw/main/Git.jpg)
+<!-- ![Git](https://github.com/MarianC-programing/MarianC-programing/raw/main/Git.jpg) -->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="40" height="40"/>
@@ -26,16 +26,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
-# Hi, I'm Marian Barba! 👋
-### Software Engineering Student | QA Enthusiast | Jr. Full Stack Developer
+# Hi, I'm Marian Barba! 
+### Software Engineering Student | Jr. Full Stack Developer
 
 I am a Software Engineering student at UTP (Panama) with a strong technical background in IT support. I'm pivoting towards **Quality Assurance** and **Full Stack Development**, combining my hardware diagnostic skills with software logic.
 
 ---
 
-### 🛠 My Tech Stack & Expertise
+### My Tech Stack & Expertise
 
-#### 💻 Development (Full Stack)
+#### Development (Full Stack)
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +48,7 @@ I am a Software Engineering student at UTP (Panama) with a strong technical back
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 🔍 Quality Assurance & Testing
+#### Quality Assurance & Testing
 <p align="left">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -56,7 +56,7 @@ I am a Software Engineering student at UTP (Panama) with a strong technical back
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
-#### ⚙️ IT Support & Infrastructure
+#### IT Support & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -67,14 +67,14 @@ I am a Software Engineering student at UTP (Panama) with a strong technical back
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MarianC-programing&theme=modern-lilac)](https://git.io/streak-stats)
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 ---
 
 
-### 🤝 Connect with me
+### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/marian-barba/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://dev.to/mariancprograming" target="blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
