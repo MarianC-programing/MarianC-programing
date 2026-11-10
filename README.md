@@ -87,20 +87,13 @@
 ### 🏆 Achievements & GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarianC-programing&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-pi.vercel.app/?username=MarianC-programing&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarianC-programing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianC-programing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianC-programing&bg_color=0d1117&color=8900FF&line=8900FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianC-programing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="190" src="assets/stats/github-stats.svg" alt="GitHub Stats" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianC-programing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="190" src="assets/stats/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
