@@ -35,7 +35,7 @@
 
 ### 👨‍💻 About Me
 
-💻 I'm a Software Engineering student at **UTP (Panama)** with a strong technical background in **IT support**. I combine my hardware diagnostic skills with software logic.
+I'm a Software Engineering student at **UTP (Panama)** with a strong technical background in **IT support**. I combine my hardware diagnostic skills with software logic.
 
 - Based in **Panama** 🇵🇦
 - Currently improving my **Full Stack** skills
@@ -56,7 +56,7 @@
 
 ---
 
-### 💼 Tech Stack & Tools
+### Tech Stack & Tools
 
 **🌐 Languages, Frameworks & Engines**
 
