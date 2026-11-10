@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h3 align="center">✅ Full Stack Developer | QA Enthusiast | Passion for Development 🔥</h3>
+<h3 align="center"> Full Stack Developer | QA Enthusiast | Passion for Development 🔥</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarianC-programing&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -33,12 +33,12 @@
 
 💻 I'm a Software Engineering student at **UTP (Panama)** with a strong technical background in **IT support**. I combine my hardware diagnostic skills with software logic.
 
-- 🌍 Based in **Panama** 🇵🇦
-- 🚀 Currently improving my **Full Stack** skills
-- 🧪 Pivoting towards **Quality Assurance** (Selenium, Cypress, manual testing)
-- 🐧 Experienced in **Windows** and **Linux** environments
-- 🤝 Open to collaborating on exciting projects
-- ✨ Love writing clean, scalable code
+- Based in **Panama** 🇵🇦
+- Currently improving my **Full Stack** skills
+- Pivoting towards **Quality Assurance** (Selenium, Cypress, manual testing)
+- Experienced in **Windows** and **Linux** environments
+- Open to collaborating on exciting projects
+- Love writing clean, scalable code
 
 ---
 
@@ -94,14 +94,6 @@
   <img height="190" src="assets/stats/github-stats.svg" alt="GitHub Stats" />
   <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianC-programing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="190" src="assets/stats/top-langs.svg" alt="Top Languages" />
-</p>
-
----
-
-### 😜 Just for Fun
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
 </p>
 
 ---
