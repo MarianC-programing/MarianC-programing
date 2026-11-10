@@ -1,88 +1,120 @@
-<!-- ![Git](https://github.com/MarianC-programing/MarianC-programing/raw/main/Git.jpg) -->
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=160&section=header&text=Marian%20Barba&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
+</p>
+
+<h1 align="center">Hi! 👋 I'm Marian</h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://github.com/MarianC-programing">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Jr.+Full+Stack+Developer+%F0%9F%92%BB;Pivoting+to+Quality+Assurance+%F0%9F%A7%AA;Based+in+Panama+%F0%9F%87%B5%F0%9F%87%A6" alt="Typing SVG" />
+  </a>
 </p>
 
-# Hi, I'm Marian Barba! 
-### Software Engineering Student | Jr. Full Stack Developer
+<h3 align="center">✅ Full Stack Developer | QA Enthusiast | Passion for Development 🔥</h3>
 
-I am a Software Engineering student at UTP (Panama) with a strong technical background in IT support. I'm pivoting towards **Quality Assurance** and **Full Stack Development**, combining my hardware diagnostic skills with software logic.
-
----
-
-### My Tech Stack & Expertise
-
-#### Development (Full Stack)
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarianC-programing&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MarianC-programing?style=flat&logo=github&label=Followers" alt="Followers" />
 </p>
 
-#### Quality Assurance & Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-
-#### IT Support & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<!-- Snake: generado por .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarianC-programing/MarianC-programing/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianC-programing/MarianC-programing/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/MarianC-programing/MarianC-programing/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarianC-programing&theme=modern-lilac)](https://git.io/streak-stats)
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+### 👨‍💻 About Me
+
+💻 I'm a Software Engineering student at **UTP (Panama)** with a strong technical background in **IT support**. I combine my hardware diagnostic skills with software logic.
+
+- 🌍 Based in **Panama** 🇵🇦
+- 🚀 Currently improving my **Full Stack** skills
+- 🧪 Pivoting towards **Quality Assurance** (Selenium, Cypress, manual testing)
+- 🐧 Experienced in **Windows** and **Linux** environments
+- 🤝 Open to collaborating on exciting projects
+- ✨ Love writing clean, scalable code
 
 ---
 
+### 📬 Connect with Me
 
-### Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/marian-barba/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dev.to/mariancprograming" target="blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="mailto:marianbarba@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/marian-barba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dev.to/mariancprograming"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+  <a href="mailto:marianbarba@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-- 📍 **Location:** Panama 🇵🇦
+---
+
+### 💼 Tech Stack & Tools
+
+**🌐 Languages, Frameworks & Engines**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cs,spring,angular,react,nextjs,nodejs,html,css,tailwind&perline=14" alt="Languages and frameworks" />
+</p>
+
+**🧪 Quality Assurance & Testing**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Manual Testing" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+**🧠 Databases, DevOps & Design**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,aws,gcp,figma&perline=14" alt="Databases and DevOps" />
+</p>
+
+**🖥️ Operating Systems & IT Support**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows&perline=14" alt="Operating systems" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+</p>
 
 ---
- *"The best way to predict the future is to create it."*
 
+### 🏆 Achievements & GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarianC-programing&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarianC-programing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianC-programing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianC-programing&bg_color=0d1117&color=8900FF&line=8900FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianC-programing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 😜 Just for Fun
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+</p>
+
+---
+
+<p align="center"><i>"The best way to predict the future is to create it."</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=120&section=footer" alt="footer" />
+</p>
