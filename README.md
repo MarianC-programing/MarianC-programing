@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=160&section=header&text=Marian%20Barba&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,100:ffb703&height=160&section=header&text=Marian%20Barba&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
 </p>
 
 <h1 align="center">Hi! 👋 I'm Marian</h1>
@@ -12,6 +12,10 @@
 </p>
 
 <h3 align="center"> Full Stack Developer | QA Enthusiast | Passion for Development 🔥</h3>
+
+<p align="center">
+  <img src="assets/Animations/gitFits.gif" width="160" alt="Pink bouncing on a trampoline" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarianC-programing&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -101,5 +105,5 @@
 <p align="center"><i>"The best way to predict the future is to create it."</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,100:ffb703&height=120&section=footer" alt="footer" />
 </p>
