@@ -33,7 +33,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👩🏻‍💻 About Me
 
 I'm a Software Engineering student at **UTP (Panama)** with a strong technical background in **IT support**. I combine my hardware diagnostic skills with software logic.
 
@@ -46,7 +46,7 @@ I'm a Software Engineering student at **UTP (Panama)** with a strong technical b
 
 ---
 
-### 📬 Connect with Me
+### 💬 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/marian-barba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -58,13 +58,13 @@ I'm a Software Engineering student at **UTP (Panama)** with a strong technical b
 
 ### Tech Stack & Tools
 
-**🌐 Languages, Frameworks & Engines**
+**🗽 Languages, Frameworks & Engines**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cs,spring,angular,react,nextjs,nodejs,html,css,tailwind&perline=14" alt="Languages and frameworks" />
 </p>
 
-**🧪 Quality Assurance & Testing**
+**👩🏻‍🔬 Quality Assurance & Testing**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
@@ -73,7 +73,7 @@ I'm a Software Engineering student at **UTP (Panama)** with a strong technical b
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
-**🧠 Databases, DevOps & Design**
+**👩🏻‍🎨 Databases, DevOps & Design**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,aws,gcp,figma&perline=14" alt="Databases and DevOps" />
